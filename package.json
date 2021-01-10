@@ -1,0 +1,15 @@
+{
+  "name": "slack-nofitication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.gs",
+  "scripts": {
+    "test": "echo OK",
+    "clasp": "$(npm bin)/clasp"
+  },
+  "author": "SUZUKI Kei",
+  "license": "MIT",
+  "dependencies": {
+    "@google/clasp": "^2.3.0"
+  }
+}
