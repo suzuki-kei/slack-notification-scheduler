@@ -1,0 +1,10 @@
+
+# vim
+*.swp
+
+# npm
+/node_modules/
+
+# clasp
+/.clasp.json
+
