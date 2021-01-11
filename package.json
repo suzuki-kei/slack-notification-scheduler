@@ -4,12 +4,13 @@
   "description": "",
   "main": "main.gs",
   "scripts": {
-    "test": "echo OK",
+    "test": "$(npm bin)/mocha --recursive",
     "clasp": "$(npm bin)/clasp"
   },
   "author": "SUZUKI Kei",
   "license": "MIT",
   "dependencies": {
-    "@google/clasp": "^2.3.0"
+    "@google/clasp": "^2.3.0",
+    "mocha": "^8.2.1"
   }
 }

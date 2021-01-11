@@ -51,3 +51,6 @@ script.google.com に push する:
     # clasp をインストールする.
     npm install @google/clasp
 
+    # mocha をインストールする.
+    npm install mocha
+
