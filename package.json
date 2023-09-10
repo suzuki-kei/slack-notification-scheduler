@@ -10,7 +10,7 @@
   "author": "SUZUKI Kei",
   "license": "MIT",
   "dependencies": {
-    "@google/clasp": "^2.3.0",
+    "@google/clasp": "^2.4.0",
     "mocha": "^10.2.0"
   }
 }
